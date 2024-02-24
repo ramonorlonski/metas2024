@@ -1,3 +1,14 @@
+:root{
+    --cor-de-fundo:#1E1E1E;
+    --verde:#6FFF57;
+    --branco:#FFFFFF;
+    --botao-ativo:#3A375E;
+    --botao-inativo:#0a1458;
+    --texto-de-fundo:#5e6278;
+}
+
+
+
 body{
     background-color: rgb(15, 165, 170);
     color:rgb(2, 9, 15);
@@ -12,4 +23,9 @@ body{
     color: black;
     margin: 10px;
     padding: 20px;
+}
+
+.conteudo-principal{
+    display: flex;
+    justify-content: center;
 }
