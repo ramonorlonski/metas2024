@@ -36,3 +36,6 @@ body{
     width: 25%;
     height: 350px;
 }
+ .meta{
+    display: flex;
+ }
