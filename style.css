@@ -33,9 +33,10 @@ body{
 }
 
 .imaguens1{
-    width: 25%;
-    height: 350px;
+    width: 200px;
+    height: 250px;
 }
  .meta{
     display: flex;
+    padding: 20px;
  }
